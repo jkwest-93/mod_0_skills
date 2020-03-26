@@ -1,0 +1,9 @@
+var food = "tiramisu"; //declare variable "food" and assignn value of "tiramisu"
+var is_new = false; //declare variable "is_new" and assign value "false"
+food = "cheesecake"; //change variable food to "cheesecake"
+var num1 = 3; //declare variable num1 and assign value 3
+var num2 = 5; //declare variable num2 and assign value 5
+var num3 = num1 * num2; //declare variable num3 and assign value of num1 * num2
+var movies = ["It", "Pet Sematary", "The Shining"]; //declare array movies and add Stephen King films
+movies.pop(); //remove the last element from the movies array
+console.log(movies.length); //returns the number of elements in the array
